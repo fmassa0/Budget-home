@@ -13,6 +13,10 @@ App web gratuita per gestire le finanze personali e di coppia.
 - Obiettivi di risparmio con versamenti
 - Spazio condiviso: chi ha pagato, divisione 50/50 o personalizzata, "chi deve a chi", rimborsi
 - Dashboard con saldo del mese, grafico a torta, andamento 12 mesi
+- Previsione di fine mese (ritmo di spesa + ricorrenti ancora da pagare) e prossime scadenze
+- Approfondimenti automatici (categorie fuori media, spesa più grande, % risparmiata, ricorrenti attive)
+- Foto dello scontrino: totale, data, negozio e categoria letti in automatico sul telefono (gratis, la foto non viene inviata)
+- Spese frequenti: un tocco e il movimento è già compilato
 - Export Excel e PDF, import estratto conto CSV/Excel (con categorie automatiche)
 - Tema chiaro/scuro, installabile sul telefono, aggiornamento in tempo reale tra i due telefoni
 
